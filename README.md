@@ -1,4 +1,4 @@
-# Live Demo ->[Demo](https://i-signup.netlify.app/)
+# Live Demo [Demo](https://i-signup.netlify.app/)
 # Desktop View
 ![Desktop Laptop view](https://github.com/adityapandey1111/React-SignUp-Page/assets/114282369/c0eb6000-6d60-4275-872a-08e88c0b11fb)
 
