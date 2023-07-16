@@ -1,4 +1,3 @@
-# Note : Add "node_modules" folder to "React files". This node_modules files should be a common folder for react projects
 # Live Demo [Demo](https://i-signup.netlify.app/)
 # Desktop View
 ![Desktop Laptop view](https://github.com/adityapandey1111/React-SignUp-Page/assets/114282369/c0eb6000-6d60-4275-872a-08e88c0b11fb)
