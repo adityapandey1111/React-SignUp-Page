@@ -1,11 +1,11 @@
 # Live Demo [Demo](https://i-signup.netlify.app/)
-## Desktop View
+# Desktop View
 ![Desktop Laptop view](https://github.com/adityapandey1111/React-SignUp-Page/assets/114282369/c0eb6000-6d60-4275-872a-08e88c0b11fb)
 
-## Mobile View
+# Mobile View
 ![Mobile view](https://github.com/adityapandey1111/React-SignUp-Page/assets/114282369/bae00443-a600-42f9-95a6-c4e9408c8874)
 
-## Mobile Desktop-site View
+# Mobile Desktop-site View
 ![Mobile-desktop site view](https://github.com/adityapandey1111/React-SignUp-Page/assets/114282369/f2974aa5-c223-42b1-ae0e-aed81afc86b8)
 
 # Getting Started with Create React App
